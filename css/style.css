@@ -1190,7 +1190,7 @@ p.subtitle-content-slider-text{
     justify-content: center;
     padding: 0 0 0 40px;
     height: 85%;
-    margin: 10% 0 0 0;
+    margin: 60px 0 0 0;
   }
 }
 @media (max-width: 620px){
@@ -1370,7 +1370,7 @@ p.subtitle-content-slider-text {
 .content-slider-three {
   padding: 0 0 0 30px;
   height: 75%;
-  margin: 15% 0 0 0;
+  margin: 55px 0 0 0;
 }
 }
 @media (max-width: 410px){
@@ -1773,7 +1773,7 @@ p.name{
     max-height: 185px;
 }
 .content-slider-three {
-  margin: 15% 0 0 0;
+  margin:100px 0 0 0;
 }
 .content-slider-three__column-doc p {
   font-size: 14px;
@@ -1899,7 +1899,7 @@ p.name{
 @media (max-width: 560px){
     .content-main-slider-six{
       justify-content: start;
-      margin: 130px 0 0 0;
+      margin: 135px 0 0 0;
     }
     .content-slider-five__column:first-child {
       top: 140px;
