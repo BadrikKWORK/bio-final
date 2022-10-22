@@ -1899,10 +1899,10 @@ p.name{
 @media (max-width: 560px){
     .content-main-slider-six{
       justify-content: start;
-      margin: 70px 0 0 0;
+      margin: 130px 0 0 0;
     }
     .content-slider-five__column:first-child {
-      top: 90px;
+      top: 140px;
   }
   .content-slider-five__column:last-child {
     top: auto;
